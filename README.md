@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Matheus Vinnycius</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusv2021&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusv2021" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusv2021&show_icons=true&theme=dark&locale=en" alt="matheusv2021" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusv2021&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusv2021" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
