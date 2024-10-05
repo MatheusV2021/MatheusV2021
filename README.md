@@ -2,7 +2,7 @@
 
 - 📘Graduated in Systems Development from ETE Porto Digital
 - 📗Digital game development with Construct 3
-- 📕Loading...
+- 📕Undergraduate in Internet Systems at UNICAP
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusv2021&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusv2021" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusv2021&show_icons=true&theme=dark&locale=en" alt="matheusv2021" /></p>
